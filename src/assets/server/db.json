@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "sanjeev",
+      "lastName": "rathore",
+      "email": "sanj@gmail.com",
+      "mobile": "49404`",
+      "salary": "49400444"
+    },
+    {
+      "id": 2,
+      "firstName": "sanjeevdd",
+      "lastName": "kumar",
+      "email": "vsssskash@gmal.com",
+      "mobile": "4444",
+      "salary": "2"
+    },
+    {
+      "firstName": "dd",
+      "lastName": "dd",
+      "email": null,
+      "mobile": null,
+      "salary": null,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
